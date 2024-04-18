@@ -1,3 +1,3 @@
 def start_game():
-    print("Game starting")
+    print("Game Finalizing")
 start_game()
