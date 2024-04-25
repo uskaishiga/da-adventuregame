@@ -1,3 +1,3 @@
 def start_game():
-    print("Game starting")
+    print("Welcome, your journey will now begin")
 start_game()
